@@ -9,7 +9,7 @@ kernel
 
 General Information
 -------------------
-kernel is a simple kernel that only displays "kernel loaded" message on the screen.
+``kernel`` is a simple kernel that only displays "kernel loaded" message on the screen.
 
 Installation
 ------------
